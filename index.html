@@ -31,6 +31,7 @@
                                                             <option value="satoko_from">toki pi waso Satoko -> toki pona (jan Polijan)</option>
         <script src="sitelenfrancais.js"></script>          <option value="sitelen_panke">sitelen Français (jan Polijan)</option>
         <script src="sitelenemoji.js"></script>             <option value="emoji">sitelen Emoji (https://sites.google.com/view/sitelenemoji)</option>
+		<script src="pseudo_germanic.js"></script>			<option value="pseudo_germanic">Pseudo Allemand (jan Sepulon)</option>
       </select>
 
       <button type="submit" id="relex-button">Relex!</button>
@@ -52,6 +53,7 @@
       for (const word in selectedDictionary) {
         var regex = new RegExp("\\b"+word+"\\b", 'g');
         text = text.replaceAll( regex, selectedDictionary[word]);
+		text = text.replaceAll(new RegExp("\n", 'g'), "<br>");
       }
 
       <!-- textEntry.value = text; -->
