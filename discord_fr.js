@@ -17,9 +17,10 @@
 
 dictionaries.sp_discord_fr = {
 //
-/////////////////////
-// nimi pi wan ala //
-/////////////////////
+///////////////////////////////////////
+// nimi pi wan ala + nimi panke nasa //
+///////////////////////////////////////
+'kissolo'        : ':kissolo:', // kikolo + kiss
 'kulupu-nasa'    : ':kulupu_nasa:',
 'toki-pona'      : ':tokipona:',
 'mi_kama'        : ':mi_kama:',
@@ -63,17 +64,19 @@ dictionaries.sp_discord_fr = {
 'ante'           : '><',
 'anu'            : 'Ｙ', // halfwidt&fullformY  // 'Y',
 'awen'           : '𓂜', // _ᐱ_
-'e'              : '⨠', // '>>', //'»' // '>>', 
+'e'              : '≫', // '⨠', // '>>', //'»' // '>>',
 'en'             : '+',  // :heavy_plus_sign:
 'esun'           : 'ℒ',
-'ijo'            : ':o:',
+// 'ijo'         : I had to put 'ijo' at the very end of the nimi pu, because:
+//                 its sp is ":o:" and it get rechanged again by the relex
+//                 machine to the sp for the name "o". this is a bit buggy!
 'ike'            : ':ike:',
 'ilo'            : '中',
 'insa'           : '└̇┘',
 'jaki'           : ':jaki:',
 'jan'            : ':jan:',
 'jelo'           : ':yellow_square:',
-'jo'             : 'G̊',
+'jo'             : 'Gͦ', // 'G̊',
 'kala'           : ':fish:',
 'kalama'         : ':kalama:',
 'kama'           : '𓂻', // '_╱╲̲',
@@ -91,8 +94,8 @@ dictionaries.sp_discord_fr = {
 'lape'           : '⊸',
 'laso'           : ':blue_square:', // :blue_square: :green_square:
 'lawa'           : 'Ꝋ',   // '𑁌', //Ꝋ
-'len'            : '𐘮', // '╒╤╕'
-'lete'           : '⚹',   // :snowflake:
+'len'            : '╒╤╕',   // mieux mais pas courant: '𐘮', // '╒╤╕'
+'lete'           : ':snowflake:',   //  '⚹', '⚹' <- no ,   // :snowflake:
 'li'             : '>',  //＞
 'lili'           : 'v', // '⌄',
 'linja'          : '～',
@@ -100,15 +103,15 @@ dictionaries.sp_discord_fr = {
 'loje'           : ':red_square:', // :red_square:
 'lon'            : ':lon:',
 'luka'           : ':back_of_hand:', //'ᕄ',
-'lukin'          : 'ᯣ', // :eye:
+'lukin'          : ':eye:', // 'ᯣ', // :eye:
 'lupa'           : 'ᑌ',
-'ma'             : '᪠',
+'ma'             : '⨁', // '᪠',
 'mama'           : 'O̥',
 'mani'           : '𑀫', //'ᴕ', // :taurus:
 'meli'           : ':female_sign:',
 'mi'             : 'ᑭ',
 'mije'           : ':male_sign:',
-'moku'           : 'ᕄ̆',
+'moku'           : ' ̬n̆', //'ᕄ̆',
 'moli'           : '(ᕯ)', // :skull:
 'monsi'          : '·[',
 'mu'             : ':mu:',
@@ -166,7 +169,7 @@ dictionaries.sp_discord_fr = {
 'tomo'           : '⌂',
 'tu'             : '꠱', // '||' would interfere with discord
 'unpa'           : 'Ꮱ', // '𓂸', // ᶜᵤᵓ
-'uta'            : '𓂑', // '𐃬',
+'uta'            : ':kiss:',   // '𓂑', // '𐃬',
 'utala'          : ':utala:',
 'walo'           : 'ꕖ' , // ':white_large_square:', // bad on light discord background
 'wan'            : '↿',
@@ -174,13 +177,14 @@ dictionaries.sp_discord_fr = {
 'wawa'           : ':wawa:',
 'weka'           : ':anger:',
 'wile'           : ':wile:',
+'ijo'            : ':o:',
 //
 //////////////////
 // nimi ku suli //
 //////////////////
 'namako'         : '⊹', // '╶╎╴'
 'kin'            : ':kin:',
-'oko'            : ':eye:', // ⏿   ⩹
+'oko'            : ':nazar_amulet:', // ':eye:', // ⏿   ⩹
 'kipisi'         : '％', //faltwidth&fullform %
 'leko'           : '⧈', // :white_square_button:
 'monsuta'        : ':part_alternation_mark:',
@@ -196,8 +200,6 @@ dictionaries.sp_discord_fr = {
 'misikeke'       : ':pill:',
 'ku'             : ':ku:',
 //
-
-
 
 
 ///////////////
