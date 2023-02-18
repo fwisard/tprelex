@@ -141,7 +141,7 @@ dictionaries.sp_discord_fr = {
 'pona'           : ':pona:',
 'pu'             : ':pu:',
 'sama'           : ':sama:',
-'seli'           : '\\!/', //'\\Ɩ̣/',
+'seli'           : '\\\!/', //'\\Ɩ̣/',
 'selo'           : '╓╖', // ℿ
 'seme'           : ':seme:',
 'sewi'           : 'ﺳ‎ı',
