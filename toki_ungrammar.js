@@ -11,8 +11,8 @@ dictionaries.ungrammar = {
 'li'   : '',
 'e'    : '',
 'la'   : '',
+'o'    : '',
 //'ni' : '',
-//'o'  : '',
 //'en' : '',
 //'ona': '',
 };
