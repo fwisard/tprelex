@@ -23,6 +23,8 @@ dictionaries.sp_discord_fr = {
 'kissolo'        : ':kissolo:', // kikolo + kiss
 'kulupu-nasa'    : ':kulupu_nasa:',
 'toki-pona'      : ':tokipona:',
+'toki_pona'      : ':tokipona:',
+'tokipona'       : ':tokipona:',
 'mi_kama'        : ':mi_kama:',
 'mi_tawa'        : ':mi_tawa:',
 'o_lape_pona'    : ':o_lape_pona:',
@@ -40,140 +42,143 @@ dictionaries.sp_discord_fr = {
 'panke'              : ':panke:',
 'masalo'             : ':masalo:',
 'sapelipope'         : ':sapelipope:',
-'kalapisituwi'       : '῀õ῀',
-'kalapisituji'       : '῀õ῀', // (=kalapisituwi)
+'kalapisituwi'       : '**῀õ῀**',
+'kalapisituji'       : '**῀õ῀**', // (=kalapisituwi)
 'kikolo'             : ':kikolo:',
 'pipolo'             : ':face_with_cowboy_hat:',﻿
-'kikulo'             : '(ᶫ.ᶫ)',
+'kikulo'             : '**(ᶫ.ᶫ)**',
 'sikako'             : ':snail:',
 'kokoliko'           : ':rooster:',
 'apelo'              : ':apelo:',
-'kosikosa'           : '≃',
+'kosikosa'           : '**≃**',
 'antikontitutonelema': ':classical_building:', //:house_abandoned:
+'antekontetutonelema': ':classical_building:', //:house_abandoned:
 //
 /////////////
 // nimi pu //
 /////////////
 'a'              : ':a_:',
-'akesi'          : '≡Ö≡',
+'akesi'          : '**≡Ö≡**',
 'ala'            : ':ala:',
-'alasa'          : 'Đ→', // ':bow_and_arrow:',
-'ale'            : '∞',
-'ali'            : '∞', // (= ale)
-'anpa'           : '└─̣┘',
-'ante'           : '><',
-'anu'            : 'Ｙ', // halfwidt&fullformY  // 'Y',
-'awen'           : '𓂜', // _ᐱ_
-'e'              : '≫', // '⨠', // '>>', //'»' // '>>',
-'en'             : '+',  // :heavy_plus_sign:
-'esun'           : 'ℒ',
+'alasa'          : '**Đ→**', // ':bow_and_arrow:',
+'alasa1'         : ':bow_and_arrow:',
+'ale'            : ':ale:',
+'ali'            : ':ake:', // (= ale)
+'anpa'           : '**└─̣┘**',
+'ante'           : ':ante:',
+'anu'            : '**Ｙ**', // halfwidt&fullformY  // 'Y',
+'awen'           : ':awen:',
+'e'              : ':e_:',
+'en'             : '**+**',  // :heavy_plus_sign:
+'esun'           : '**ℒ**',
 // 'ijo'         : I had to put 'ijo' at the very end of the nimi pu, because:
 //                 its sp is ":o:" and it get rechanged again by the relex
 //                 machine to the sp for the name "o". this is a bit buggy!
 'ike'            : ':ike:',
-'ilo'            : '中',
-'insa'           : '└̇┘',
+'ilo'            : '**中**',
+'insa'           : '**└̇┘**',
 'jaki'           : ':jaki:',
 'jan'            : ':jan:',
 'jelo'           : ':yellow_square:',
-'jo'             : 'Gͦ', // 'G̊',
+'jo'             : '**Gͦ**', // 'G̊',
 'kala'           : ':fish:',
 'kalama'         : ':kalama:',
-'kama'           : '𓂻', // '_╱╲̲',
+'kama'           : ':kama:',
 'kasi'           : ':seedling:', // ܤ
-'ken'            : 'K',
-'kepeken'        : ' ̬n̍͆', // 'ᕄ̍͆ ',   // :mahjong:
+'ken'            : '**K**',
+'kepeken'        : '** ̬n̍͆**', // 'ᕄ̍͆ ',   // :mahjong:
 'kili'           : ':apple:',
 'kiwen'          : ':gem:',
-'ko'             : 'ꕤ',
-'kon'            : '∬',
-'kule'           : '🜁', // '△̶'
+'ko'             : '**ꕤ**',
+'kon'            : '**∬**',
+'kule'           : '**🜁**', // '△̶'
 'kulupu'         : ':kulupu:',
 'kute'           : ':ear:',
-'la'             : '）', //halfwidth&fullform ) ')',
-'lape'           : '⊸',
+'la'             : '**）**', //halfwidth&fullform ) ')',
+'lape'           : '**⊸**',
 'laso'           : ':blue_square:', // :blue_square: :green_square:
-'lawa'           : 'Ꝋ',   // '𑁌', //Ꝋ
-'len'            : '╒╤╕',   // mieux mais pas courant: '𐘮', // '╒╤╕'
+'lawa'           : '**Ꝋ**',   // '𑁌', //Ꝋ
+'len'            : '**╒╤╕**',   // mieux mais pas courant: '𐘮', // '╒╤╕'
 'lete'           : ':snowflake:',   //  '⚹', '⚹' <- no ,   // :snowflake:
-'li'             : '>',  //＞
-'lili'           : 'v', // '⌄',
-'linja'          : '～',
+'li'             : ':li:',  //＞
+'lili'           : '**v**', // '⌄',
+'linja'          : '**～**',
 'lipu'           : ':lipu:',
 'loje'           : ':red_square:', // :red_square:
 'lon'            : ':lon:',
 'luka'           : ':back_of_hand:', //'ᕄ',
 'lukin'          : ':eye:', // 'ᯣ', // :eye:
-'lupa'           : 'ᑌ',
-'ma'             : '⨁', // '᪠',
-'mama'           : 'O̥',
-'mani'           : '𑀫', //'ᴕ', // :taurus:
+'lupa'           : '**ᑌ**',
+'ma'             : '**⨁**', // '᪠',
+'mama'           : '**O̥**',
+'mani'           : '**𑀫**', //'ᴕ', // :taurus:
 'meli'           : ':female_sign:',
-'mi'             : 'ᑭ',
+'mi'             : '**ᑭ**',
 'mije'           : ':male_sign:',
-'moku'           : ' ̬n̆', //'ᕄ̆',
-'moli'           : '(ᕯ)', // :skull:
-'monsi'          : '·[',
+'moku'           : '** ̬n̆**', //'ᕄ̆',
+'moli'           : '**(ᕯ)**', //:skull:
+'moli1'          : ':skull:',
+'monsi'          : '**·[**',
 'mu'             : ':mu:',
 'mun'            : ':first_quarter_moon_with_face:',
 'musi'           : ':musi:',
-'mute'           : 'ꔖ', // '|||', // | would interfere with Discord
-'nanpa'          : 'ⵌ', // better than ascii # which may trigger stuff on Discord, :hash:
+'mute'           : '**ꔖ**', // '|||', // | would interfere with Discord
+'nanpa'          : '**ⵌ**', // better than ascii # which may trigger stuff on Discord, :hash:
 'nasa'           : ':nasa:',
 'nasin'          : ':nasin:',
-'nena'           : 'ᑎ',
+'nena'           : '**ᑎ**',
 'ni'             : ':ni:',
-'nimi'           : '▭',
-'noka'           : 'Lᕊ',  //:foot:
+'nimi'           : '**▭**',
+'noka'           : '**Lᕊ**',  //:foot:
 'o'              : ':exclamation:', // 'I̥',
 'olin'           : ':olin:',
-'ona'            : 'ᓄ',
-'open'           : '╘╛',
+'ona'            : '**ᓄ**',
+'open'           : '**╘╛**',
 'pakala'         : ':pakala:',
 'pali'           : ':pali:',
-'palisa'         : '꧰',
-'pan'            : '𐠃',
-'pana'           : 'ˈ̬n̍´', // '\' ̬n̍´', // 'ᕄ⃛',
-'pi'             : 'ᒪ',
+'palisa'         : '**꧰**',
+'pan'            : '**𐠃**',
+'pana'           : '**ˈ̬n̍´**', // '\' ̬n̍´', // 'ᕄ⃛',
+'pi'             : '**ᒪ**',
 'pilin'          : ':pilin:',
-'pimeja'         : '⨻', // ':black_large_square:', // bad on dark discord background
-'pini'           : '𝙸', // <--- mathfont monspace, 'エ',
-'pipi'           : '⽺',
-'poka'           : '⊔·',
-'poki'           : '⊔',
+'pimeja'         : '**⨻**', // ':black_large_square:', // bad on dark discord background
+'pini'           : '**𝙸**', // <--- mathfont monspace, 'エ',
+'pipi'           : '**⽺**',
+'poka'           : '**⊔·**',
+'poki'           : '**⊔**',
 'pona'           : ':pona:',
 'pu'             : ':pu:',
 'sama'           : ':sama:',
-'seli'           : '\\\\!/', //'\\Ɩ̣/',
-'selo'           : '╓╖', // ℿ
+'seli'           : '**\\\\!/**', //'\\Ɩ̣/',
+'selo'           : '**╓╖**', // ℿ
 'seme'           : ':seme:',
-'sewi'           : 'ﺳ‎ı',
-'sijelo'         : '𐊿', // '┌┬┐',
-'sike'           : '◎',
+'sewi'           : '**ﺳ‎ı**',  // signal strength, (TODO?: add a "logical sewi")
+'sijelo'         : '**𐊿**', // '┌┬┐',
+'sike'           : '**◎**',
 'sin'            : ':sin:',
-'sina'           : 'ᑲ',
-'sinpin'         : ']·',
+'sina'           : '**ᑲ**',
+'sinpin'         : '**]·**',
 'sitelen'        : ':sitelen:',
 'sona'           : ':sona:',
-'soweli'         : 'ııïᕈ',
-'suli'           : 'Ｖ', //<--halfwidth&fullform   '╲╱', // '⋁', '╲╱'
+'soweli'         : '**ııïᕈ**',
+'suli'           : '**Ｖ**', //<--halfwidth&fullform   '╲╱', // '⋁', '╲╱'
 'suno'           : ':high_brightness:', // '𐄢',  // :high_brightness: , :sunny:
-'supa'           : '┬┬',
+'supa'           : '**┬┬**',
 'suwi'           : ':suwi:',
 'tan'            : ':tan:',
 'taso'           : ':taso:',
-'tawa'           : '𓂽', //       '╱̲╲_',   // 𓂽
-'telo'           : '≈',
+'tawa'           : ':tawa:',
+'telo'           : '*≈**',
 'tenpo'          : ':clock3:',
 'toki'           : ':toki:',
-'tomo'           : '⌂',
-'tu'             : '꠱', // '||' would interfere with discord
-'unpa'           : 'Ꮱ', // '𓂸', // ᶜᵤᵓ
+'tomo'           : '**⌂**',
+'tu'             : '**꠱**', // '||' would interfere with discord
+'unpa'           : '**Ꮱ**', // '𓂸', // ᶜᵤᵓ
 'uta'            : ':kiss:',   // '𓂑', // '𐃬',
 'utala'          : ':utala:',
-'walo'           : 'ꕖ' , // ':white_large_square:', // bad on light discord background
-'wan'            : '↿',
-'waso'           : '"ᔨ',
+'walo'           : '**ꕖ**' , // ':white_large_square:', // bad on light discord background
+'wan'            : '**↿**',
+'waso'           : '**"ᔨ**',
 'wawa'           : ':wawa:',
 'weka'           : ':anger:',
 'wile'           : ':wile:',
@@ -182,35 +187,39 @@ dictionaries.sp_discord_fr = {
 //////////////////
 // nimi ku suli //
 //////////////////
-'namako'         : '⊹', // '╶╎╴'
+'namako'         : '**╶╎╴**',   //'**⊹**', // '╶╎╴'
+'namako1'        : ':hot_pepper:',
 'kin'            : ':kin:',
 'oko'            : ':nazar_amulet:', // ':eye:', // ⏿   ⩹
-'kipisi'         : '％', //faltwidth&fullform %
-'leko'           : '⧈', // :white_square_button:
+'kipisi'         : '**％**', //faltwidth&fullform %
+'leko'           : '**⧈**', // :white_square_button:
 'monsuta'        : ':part_alternation_mark:',
 'tonsi'          : ':transgender_symbol:',
-'jasima'         : 'ꬸ', // '⍭'
+'jasima'         : '**ꬸ**', // '⍭'
 'kijetesantakalu': ':raccoon:',
 'soko'           : ':mushroom:',
-'meso'           : '|·|',
+'meso'           : '**|·|**',
 'epiku'          : ':arrow_up:', // ':superhero:', ///???
-'kokosila'       : '`Ø̍´',
-'lanpan'         : 'ሮ', // 'ᝰ.', // bof bof!
-'n'              : 'n̍',
+'kokosila'       : '**`Ø̍´**',
+'lanpan'         : '**ሮ**', // 'ᝰ.', // bof bof!
+'n'              : ':n_:',
 'misikeke'       : ':pill:',
 'ku'             : ':ku:',
-//
-
+/////////////////////////////////////
+// nimi su suli ("su" et "majuna") //
+/////////////////////////////////////
+'su'             : ':su:',
+'majuna'         : '**╶╷╴**', // :lotus: --
+'majuna1'        : '**-⺌-**',
 
 ///////////////
 // nimi ante //
 ///////////////
-'apeja'          : '˙⟑˙',
-'pake'           : 'ㄒ',
-'powe'           : '⨱',
-'wawajete'       : '¤',
-'yupekosi'       : 'y',
-'majuna'         : '╶╷╴', // :lotus: --
+'apeja'          : '**˙⟑˙**',
+'pake'           : '**ㄒ**',
+'powe'           : '**⨱**',
+'wawajete'       : '**¤**',
+'yupekosi'       : '**y**',
 'kapesi'         : ':brown_square:', // '⨹',
 'unu'            : ':purple_square:',
 'nalanja'        : ':orange_square:',
