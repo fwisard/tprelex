@@ -17,6 +17,8 @@
 
 dictionaries.sp_discord_fr = {
 //
+'n'              : ':n_:', // moved up here so that it doesn interfere with pana,moku,kepeken
+//
 ///////////////////////////////////////
 // nimi pi wan ala + nimi panke nasa //
 ///////////////////////////////////////
@@ -60,6 +62,8 @@ dictionaries.sp_discord_fr = {
 'a'              : ':a_:',
 'akesi'          : '**≡Ö≡**',
 'ala'            : ':ala:',
+'ala1'           : ':x:',
+'ala2'           : ':heavy_multiplication_x:',
 'alasa'          : '**Đ→**', // ':bow_and_arrow:',
 'alasa1'         : ':bow_and_arrow:',
 'ale'            : ':ale:',
@@ -70,6 +74,7 @@ dictionaries.sp_discord_fr = {
 'awen'           : ':awen:',
 'e'              : ':e_:',
 'en'             : '**+**',  // :heavy_plus_sign:
+'en1'            : ':heavy_plus_sign:',
 'esun'           : '**ℒ**',
 // 'ijo'         : I had to put 'ijo' at the very end of the nimi pu, because:
 //                 its sp is ":o:" and it get rechanged again by the relex
@@ -78,9 +83,12 @@ dictionaries.sp_discord_fr = {
 'ilo'            : '**中**',
 'insa'           : '**└̇┘**',
 'jaki'           : ':jaki:',
+'jaki1'          : ':poop:',
 'jan'            : ':jan:',
+'jan1'           : ':bust_in_silhouette:',
 'jelo'           : ':yellow_square:',
 'jo'             : '**Gͦ**', // 'G̊',
+'jo1'            : ':hook:',
 'kala'           : ':fish:',
 'kalama'         : ':kalama:',
 'kama'           : ':kama:',
@@ -128,10 +136,12 @@ dictionaries.sp_discord_fr = {
 'nasin'          : ':nasin:',
 'nena'           : '**ᑎ**',
 'ni'             : ':ni:',
+'ni1'            : ':ni_:',
 'nimi'           : '**▭**',
 'noka'           : '**Lᕊ**',  //:foot:
 'o'              : ':exclamation:', // 'I̥',
 'olin'           : ':olin:',
+'olin1'          : ':two_hearts:',
 'ona'            : '**ᓄ**',
 'open'           : '**╘╛**',
 'pakala'         : ':pakala:',
@@ -141,6 +151,7 @@ dictionaries.sp_discord_fr = {
 'pana'           : '**ˈ̬n̍´**', // '\' ̬n̍´', // 'ᕄ⃛',
 'pi'             : '**ᒪ**',
 'pilin'          : ':pilin:',
+'pilin1'         : ':heart:',
 'pimeja'         : '**⨻**', // ':black_large_square:', // bad on dark discord background
 'pini'           : '**𝙸**', // <--- mathfont monspace, 'エ',
 'pipi'           : '**⽺**',
@@ -149,10 +160,14 @@ dictionaries.sp_discord_fr = {
 'pona'           : ':pona:',
 'pu'             : ':pu:',
 'sama'           : ':sama:',
+'sama1'          : ':heavy_equals_sign:',
 'seli'           : '**\\\\!/**', //'\\Ɩ̣/',
 'selo'           : '**╓╖**', // ℿ
 'seme'           : ':seme:',
+'seme1'          : ':question_mark:',
+'seme2'          : ':grey_question:',
 'sewi'           : '**ﺳ‎ı**',  // signal strength, (TODO?: add a "logical sewi")
+'sewi1'          : ':signal_strength:',
 'sijelo'         : '**𐊿**', // '┌┬┐',
 'sike'           : '**◎**',
 'sin'            : ':sin:',
@@ -165,6 +180,7 @@ dictionaries.sp_discord_fr = {
 'suno'           : ':high_brightness:', // '𐄢',  // :high_brightness: , :sunny:
 'supa'           : '**┬┬**',
 'suwi'           : ':suwi:',
+'suwi1'          : '**^.^**',
 'tan'            : ':tan:',
 'taso'           : ':taso:',
 'tawa'           : ':tawa:',
@@ -192,6 +208,7 @@ dictionaries.sp_discord_fr = {
 'kin'            : ':kin:',
 'oko'            : ':nazar_amulet:', // ':eye:', // ⏿   ⩹
 'kipisi'         : '**％**', //faltwidth&fullform %
+'kipisi1'        : ':heavy_division_sign:',
 'leko'           : '**⧈**', // :white_square_button:
 'monsuta'        : ':part_alternation_mark:',
 'tonsi'          : ':transgender_symbol:',
@@ -202,7 +219,6 @@ dictionaries.sp_discord_fr = {
 'epiku'          : ':arrow_up:', // ':superhero:', ///???
 'kokosila'       : '**`Ø̍´**',
 'lanpan'         : '**ሮ**', // 'ᝰ.', // bof bof!
-'n'              : ':n_:',
 'misikeke'       : ':pill:',
 'ku'             : ':ku:',
 /////////////////////////////////////
@@ -226,4 +242,5 @@ dictionaries.sp_discord_fr = {
 'mulapisu'       : ':pizza:',
 'isipin'         : ':thinking_face:',
 'linluwi'        : ':spider_web:',
+'kiki'           : ':eight_pointed_black_star:',
 };
